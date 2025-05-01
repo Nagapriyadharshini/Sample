@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+*{
+	margin: 0px;
+}
+body{
+	background-image: url("https://cdn.pixabay.com/photo/2021/12/11/07/59/hotel-6862159_960_720.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+  	opacity: 1;
+}
+h1{
+	text-align: center;
+	text-decoration: blink;
+}
+button {
+	height: 180px;
+	width: 180px;
+	border-radius: 8px;
+	background-color:  beige;
+}

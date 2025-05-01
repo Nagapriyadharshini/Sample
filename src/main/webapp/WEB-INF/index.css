@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+* {
+	margin: 0;
+	}
+
+div {
+	height: 100vh;
+}
+
+form {
+	height: 250px;
+	width: 400px;
+	border: 1px solid black;
+	background-color: beige;
+}

@@ -12,7 +12,7 @@
 	<%@page import="hotel.SaveUser" %>
 	<% int result = SaveUser.result(); %>
 
-	<form action="signup" class="signup-page">
+	<form action="signup" class="signup-page" method="post">
 	<section class="lable">
 		<h1>Welcome back!</h1>
             <p>Enter your cerdential</p> <br>
